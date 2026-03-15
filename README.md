@@ -211,7 +211,7 @@ App available at `http://localhost:3000`
 
 ## Team
 
-**Innovators_Knights** — Graphic Era Deemed to be University, Dehradun, India
+**Innovator_Knights** — Graphic Era Deemed to be University, Dehradun, India
 
 - Himanshu Butola
 - Khushi Sharma
