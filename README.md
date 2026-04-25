@@ -1,5 +1,4 @@
-# Citizen Location-Based Hazard Alert System
-
+# CitizenGuard AI — Location-Based Hazard Alert System
 > A real-time, location-based hazard alert platform that warns citizens about nearby urban dangers via instant SMS — before accidents happen.An AI-powered civic safety platform that detects urban hazards, classifies severity using Machine Learning, and simulates real-time SMS alerts to nearby citizens.
 
 ---
