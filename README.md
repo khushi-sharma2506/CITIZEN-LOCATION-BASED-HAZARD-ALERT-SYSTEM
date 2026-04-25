@@ -1,12 +1,6 @@
 # Citizen Location-Based Hazard Alert System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hackathon-Graph--e--thon%203.0-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Team-Innovators__Knights-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SDG-11%20%7C%207%20%7C%209-green?style=for-the-badge" />
-</p>
-
-> A real-time, location-based hazard alert platform that warns citizens about nearby urban dangers via instant SMS — before accidents happen.
+> A real-time, location-based hazard alert platform that warns citizens about nearby urban dangers via instant SMS — before accidents happen.An AI-powered civic safety platform that detects urban hazards, classifies severity using Machine Learning, and simulates real-time SMS alerts to nearby citizens.
 
 ---
 
@@ -209,16 +203,6 @@ App available at `http://localhost:3000`
 
 ---
 
-## Team
-
-**Innovator_Knights** — Graphic Era Deemed to be University, Dehradun, India
-
-- Himanshu Butola
-- Khushi Sharma
-- Akhil Kotnala
-- Anushreya Tomar
-
----
 
 ## Research & References
 
@@ -238,10 +222,8 @@ App available at `http://localhost:3000`
 
 ---
 
-## License
+## 👤 Author
 
-This project was developed as a submission for **Graph-e-thon 3.0**. All rights reserved by Team Innovators_Knights, Graphic Era Deemed to be University.
+**Khushi Sharma** — B.Tech CSE (AI & ML), Graphic Era University, Dehradun
 
----
-
-<p align="center">Built with ❤️ for safer cities &nbsp;·&nbsp; Graph-e-thon 3.0</p>
+- GitHub: [@khushi-sharma2506](https://github.com/khushi-sharma2506)
